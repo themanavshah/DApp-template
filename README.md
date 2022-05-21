@@ -22,7 +22,7 @@ Frontend is not that attractive it is just an effort to create a decentralised b
 
 ## How to use it?
 
-You have to npm installed on your system and the browser you are using should have an metamask extension.
+You should have npm installed on your system and the browser you are using should have an metamask extension installed.
 
 
 ```bash
