@@ -20,9 +20,16 @@ Frontend is not that attractive it is just an effort to create a decentralised b
 [![Image](https://i.ibb.co/d0z9Q44/Screenshot-2022-05-21-at-1-55-16-PM.png)](https://github.com/themanavshah/DApp-template)
 
 
+## Accroding to instagram post
+- **contracts/** is the smart contract(s) written
+- **compile.js** will compile your contract(s) manually and the resulting JSON will be saved in build/.
+- **test/lottery.test.js** is the tests for the smart contract(s).
+- **deploy.js** is the file for manually deploying contracts, it will log the contract address, which will be your contract address deployed on rinkeby test-net.
+- **src** it is react stuff which is pretty understanble on how to create an react app.
+
 ## How to use it?
 
-You should have npm installed on your system and the browser you are using should have an metamask extension installed.
+You have to npm installed on your system and the browser you are using should have an metamask extension.
 
 
 ```bash
