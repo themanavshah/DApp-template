@@ -1,8 +1,8 @@
 
 # DApp template
 
-This is a template for creating a basic decentralsied application on web. Here is that instagram post:
-<a href="https://www.instagram.com/manavcodes">
+This is an example for creating a basic decentralsied application on web which can be used as a template. Here is that instagram post:
+<a href="https://www.instagram.com/p/Cd0bpD3j1oQ/?igshid=YmMyMTA2M2Y=">
          How to create a web3 website?
 </a>
 
